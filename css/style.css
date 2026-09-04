@@ -5,13 +5,23 @@
 
 .titulo{
     text-align: center;
-    color: blue
+    color: rgb(17, 17, 158)
 }
+ .textoNormal{
+    text-align: center;
+    color:cornflowerblue;
+    font-family:'Segoe UI';
+    font-weight: lighter;
+ }
 
 .tablaPrincipal{
     margin: auto;
     margin-top: 200px;
     color: rgb(98, 97, 97);
+}
+
+.imagen{
+    text-align: center;
 }
 
 .header{

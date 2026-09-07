@@ -23,3 +23,7 @@ Estructura de la plantilla:
  | - img .- imagenes utilizadas en las páginas html
  
  | - varios .- Archivos para el diseño de readme
+
+Autor:\
+Claudia Luna\
+@Hower-S :+1:
